@@ -14,5 +14,6 @@ This repository showcases my progress on LeetCode, where I aim to enhance my und
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0006_Zigzag_Conversion.py)|Medium|
 |7|[Rever Integer](https://leetcode.com/problems/reverse-integer/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0007_Reverse_Integer.py)|Medium|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0008_String_to_Integer_(atoi).py)|Medium|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0009_Palindrome_Number.py)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)|[MySQL](https://github.com/benson8902/leetcode/blob/main/Code/0175_Combine_Two_Tables.sql)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/)|[MySQL](https://github.com/benson8902/leetcode/blob/main/Code/0176_Second_Highest_Salary.sql)|Medium|
