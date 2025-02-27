@@ -17,6 +17,6 @@ This repository showcases my progress on LeetCode, where I aim to enhance my und
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0009_Palindrome_Number.py)|🟢 Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0013_Roman_to_Integer.py)|🟢 Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0014_Longest_common_prefix.py)|🟢 Easy|
-|15|[3Sum](https://leetcode.com/problems/3sum/description/)|[Python]()|🟠 Medium|
+|15|[3Sum](https://leetcode.com/problems/3sum/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0015_3Sum.py)|🟠 Medium|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)|[MySQL](https://github.com/benson8902/leetcode/blob/main/Code/0175_Combine_Two_Tables.sql)|🟢 Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/)|[MySQL](https://github.com/benson8902/leetcode/blob/main/Code/0176_Second_Highest_Salary.sql)|🟠 Medium|
