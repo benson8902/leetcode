@@ -19,6 +19,6 @@ This repository showcases my progress on LeetCode, where I aim to enhance my und
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0014_Longest_common_prefix.py)|🟢 Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0015_3Sum.py)|🟠 Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0020_Valid_Parentheses.py)|🟢 Easy|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Python]()|🟢 Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0021_Merge_Two_Sorted_Lists.py)|🟢 Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)|[MySQL](https://github.com/benson8902/leetcode/blob/main/Code/0175_Combine_Two_Tables.sql)|🟢 Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/)|[MySQL](https://github.com/benson8902/leetcode/blob/main/Code/0176_Second_Highest_Salary.sql)|🟠 Medium|
