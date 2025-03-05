@@ -24,3 +24,4 @@ This repository showcases my progress on LeetCode, where I aim to enhance my und
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/)|[MySQL](https://github.com/benson8902/leetcode/blob/main/Code/0176_Second_Highest_Salary.sql)|🟠 Medium|
 |181|[Employee Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/)|[MySQL](https://github.com/benson8902/leetcode/blob/main/Code/0181_Employee_Earning_More_Than_Their_Managers.sql)|🟢 Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/)|[MySQL](https://github.com/benson8902/leetcode/blob/main/Code/0182_Duplicate_Emails.sql)|🟢 Easy|
+|183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/description/)|[MySQL](https://github.com/benson8902/leetcode/blob/main/Code/0183_Customers_Who_Never_Order.sql)|🟢 Easy|
