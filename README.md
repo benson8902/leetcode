@@ -22,3 +22,4 @@ This repository showcases my progress on LeetCode, where I aim to enhance my und
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0021_Merge_Two_Sorted_Lists.py)|🟢 Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)|[MySQL](https://github.com/benson8902/leetcode/blob/main/Code/0175_Combine_Two_Tables.sql)|🟢 Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/)|[MySQL](https://github.com/benson8902/leetcode/blob/main/Code/0176_Second_Highest_Salary.sql)|🟠 Medium|
+|181|[Employee Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/)|[MySQL]()|🟢 Easy|
