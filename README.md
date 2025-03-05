@@ -28,3 +28,4 @@ This repository showcases my progress on LeetCode, where I aim to enhance my und
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)|[MySQL](https://github.com/benson8902/leetcode/blob/main/Code/0196_Delete_Duplicate_Emails.sql)|🟢 Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)|[MySQL](https://github.com/benson8902/leetcode/blob/main/Code/0197_Rising_Temperature.sql)|🟢 Easy|
 |511|[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/)|[MySQL](https://github.com/benson8902/leetcode/blob/main/Code/0511_Game_Play_Analysis_I.sql)|🟢 Easy|
+|577|[Employee Bonus](https://leetcode.com/problems/employee-bonus/description/)|[MySQL](https://github.com/benson8902/leetcode/blob/main/Code/0577_Employee_Bonus.sql)|🟢 Easy|
