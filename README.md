@@ -7,7 +7,7 @@ This repository showcases my progress on LeetCode, where I aim to enhance my und
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0001_two_sum.py), [C#](https://github.com/benson8902/leetcode/blob/main/Code/0001_two_sum.cs)|🟢 Easy|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0002_add_two_numbers.py)|🟠 Medium|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0002_add_two_numbers.py), [C#](https://github.com/benson8902/leetcode/blob/main/Code/0002_add_two_numbers.cs)|🟠 Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0003_longest_substring_without_repeating_characters.py)|🟠 Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0004_median_of_two_sorted_arrays.py)|🔴 Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[Python](https://github.com/benson8902/leetcode/blob/main/Code/0005_Longest_Palindromic_Substring.py)|🟠 Medium|
